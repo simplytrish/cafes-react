@@ -1,0 +1,57 @@
+body {
+	background-color: #EDEDEE;
+}
+
+.container-fluid {
+	padding: 0px !important;
+	width: 1200px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+/*HEADER STYLING*/
+
+/*BANNER STYLING*/
+.banner-img {
+	margin-bottom: 30px;
+}
+
+.logo-img {
+	z-index: 10;
+	position: absolute;
+	width: 100%;
+	margin: 15% 0 0 27%;
+}
+
+/*CAFELIST STYLING*/
+
+/*ABOUT STYLING*/
+
+.about-text {
+	height: 500px;
+	background-color: #FFFFFF;
+	text-align: center;
+	font-size: 20px;
+	margin: 0 auto;
+	padding-top: 10%;
+	padding-right: 5%;
+	padding-left: 5%;
+	
+}
+
+/*SHOW PAGE STYLING*/
+.cafe-show {
+	margin-top: 10%;
+}
+
+.cafe-title {
+	font-size: 40px;
+}
+
+/* TO DO */
+
+/* Media queries to optimize for differnt screen sizes*/
+
